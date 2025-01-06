@@ -1,10 +1,6 @@
-* {
+body {
   margin: 0;
-  padding: 0;
-  font-family: 'poppins';
-}
-
-a {
-  text-decoration: none !important;
-  color: inherit;
+  font-family: 'Poppins', sans-serif;
+  background: #F6F6F6;
+  height: 100vh;
 }
